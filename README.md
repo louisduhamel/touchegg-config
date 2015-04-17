@@ -28,6 +28,10 @@ If the touchegg version coming from aptitude is not playing ball with your syste
   - Add touchegg to the list of startup applications, so that it, well, starts up at login.
   - Voila! You should be good to go.
 
+## TODO
+
+- This file worked fine for me on Elementary OS Luna (0.2). I'll give it a spin under Freya to see how it works.
+
 ## Questions? Comments?
 
 If you have any questions or comments, I'd be happy to hear them! Of course feel free to fork and submit PRs. Happy hacking!
