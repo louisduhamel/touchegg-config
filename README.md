@@ -21,7 +21,7 @@ If the touchegg version coming from aptitude is not playing ball with your syste
 
   ``$ qmake``
 
-  ``$ make``  (Note that the make command take a couple of minutes to complete; it’s okay, just look for potential errors in the output. You should be fine.)
+  ``$ make``  (Note that the make command takes a couple of minutes to complete; it’s okay, just look for potential errors in the output. You should be fine.)
   
   ``$ sudo make install``
   - Download the ``touchegg.conf`` file and save it under ``~/.config/touchegg/touchegg.conf``
